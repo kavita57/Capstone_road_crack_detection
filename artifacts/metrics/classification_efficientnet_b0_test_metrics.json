@@ -1,0 +1,9 @@
+{
+  "test_loss": 0.15977738133718203,
+  "primary_metric": 0.817524115755627,
+  "accuracy": 0.9460423104349893,
+  "precision": 0.8363486842105263,
+  "recall": 0.7995283018867925,
+  "f1": 0.817524115755627,
+  "prediction_plot_path": "artifacts\\plots\\classification_efficientnet_b0_test_predictions.png"
+}

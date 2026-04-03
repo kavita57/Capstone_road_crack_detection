@@ -1,0 +1,3 @@
+test_loss,primary_metric,accuracy,precision,recall,f1,prediction_plot_path,metrics_json_path,model_name,task_mode,best_val_metric,epochs_ran,train_minutes
+0.15977738133718203,0.817524115755627,0.9460423104349893,0.8363486842105263,0.7995283018867925,0.817524115755627,artifacts\plots\classification_efficientnet_b0_test_predictions.png,artifacts\metrics\classification_efficientnet_b0_test_metrics.json,efficientnet_b0,classification,0.824969400244798,8,40.02303380966187
+0.16151082922337257,0.7959719789842382,0.9446161159971476,0.8982213438735178,0.714622641509434,0.7959719789842382,artifacts\plots\classification_resnet18_test_predictions.png,artifacts\metrics\classification_resnet18_test_metrics.json,resnet18,classification,0.8006962576153177,8,22.959449489911396
